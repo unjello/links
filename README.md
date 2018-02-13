@@ -12,6 +12,8 @@
 - [RE2](https://github.com/google/re2) - regexp library for C++
 - [Ragel](http://www.colm.net/open-source/ragel/) - state machines generator for C/C++ and Assembler
 
+## JVM
+- [EasyGC](http://www.gceasy.io) - Garbage Collector vizualization
 
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
