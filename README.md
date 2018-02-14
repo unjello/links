@@ -14,6 +14,7 @@
 
 ## JVM
 - [EasyGC](http://www.gceasy.io) - Garbage Collector vizualization
+- [Grok expressions debugger](https://grokdebug.herokuapp.com)
 
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
