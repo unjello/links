@@ -18,6 +18,9 @@
 - [EasyGC](http://www.gceasy.io) - Garbage Collector vizualization
 - [Grok expressions debugger](https://grokdebug.herokuapp.com)
 
+## NoSQL Databases
+- [Kristof Kovacs NoSQL comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs ... everything
+
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
 - [Microservices](https://github.com/mfornos/awesome-microservices) - part of awesome list of lists
