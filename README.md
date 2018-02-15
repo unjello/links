@@ -21,6 +21,10 @@
 ## NoSQL Databases
 - [Kristof Kovacs NoSQL comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs ... everything
 
+
+## Unix Tools
+- [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
+
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
 - [Microservices](https://github.com/mfornos/awesome-microservices) - part of awesome list of lists
