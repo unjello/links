@@ -3,10 +3,12 @@
 - [Regular Expressions 101](https://regex101.com) - regexp online editor
 - [RE2](https://github.com/google/re2) - regexp library for C++
 
+## Graphics
+- [List of noise funcitons](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
+
 ## Assembler
 - [AsmGrid](https://kobalicek.com/asmgrid/) - assembly opcodes database
 - [Ragel](http://www.colm.net/open-source/ragel/) - state machines generator for C/C++ and Assembler
-
 
 ## C++
 - [RE2](https://github.com/google/re2) - regexp library for C++
