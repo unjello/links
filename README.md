@@ -28,6 +28,10 @@
 ## Unix Tools
 - [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
 
+## Documentation
+- [org-spec](https://github.com/thi-ng/org-spec) - nice template for technical and architectural documents
+- [apid-doc](https://casual-effects.com/markdeep/apidoc.md.html) - markdeep for api and technical documents
+
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
 - [Microservices](https://github.com/mfornos/awesome-microservices) - part of awesome list of lists
