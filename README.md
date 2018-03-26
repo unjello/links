@@ -49,3 +49,8 @@
 ## CC0 Images
 - [Unsplash](https://unsplash.com)
 - [CC0.photo](https://cc0.photo)
+
+
+## Podcasts
+
+- [Programming Throwdown](http://www.programmingthrowdown.com/)
