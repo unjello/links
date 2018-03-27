@@ -1,3 +1,5 @@
+## Tools!
+- [Intel System Studio](https://software.intel.com/en-us/system-studio/choose-download) - this ain't happening. Intel gave free license for their products!
 ## Regular Expressions
 - [Regexper](https://regexper.com) - railroad diagrams for regular expressions
 - [Regular Expressions 101](https://regex101.com) - regexp online editor
