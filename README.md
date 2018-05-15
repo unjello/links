@@ -35,6 +35,7 @@
 ## .NET
 - [Akka.NET](http://getakka.net) - Actor system for .NET
 - [Protoactor.NET](https://github.com/AsynkronIT/protoactor-dotnet) - Yet another actor system for .NET
+- [Akkatecture](https://akkatecture.net/) - CQRS and Event Sourcing framework
 
 
 ## NoSQL Databases
