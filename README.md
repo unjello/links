@@ -26,6 +26,7 @@
 - [RE2](https://github.com/google/re2) - regexp library for C++
 - [Ragel](http://www.colm.net/open-source/ragel/) - state machines generator for C/C++ and Assembler
 - [CAF](https://actor-framework.org/) - *C++ Actor Framework*, an actor system for C++
+- [Quick C++ Benchmarks](http://quick-bench.com) - online C++ benchmarking
 
 ## JVM
 - [EasyGC](http://www.gceasy.io) - Garbage Collector vizualization
