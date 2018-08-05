@@ -43,6 +43,8 @@
 ## NoSQL Databases
 - [Kristof Kovacs NoSQL comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs ... everything
 
+## Infrastructure
+- [Serverless framework](https://serverless.com/)
 
 ## Unix Tools
 - [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
