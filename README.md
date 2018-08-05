@@ -30,6 +30,7 @@
 
 ## JVM
 - [EasyGC](http://www.gceasy.io) - Garbage Collector vizualization
+- [GCViewer](https://github.com/chewiebug/GCViewer) - offline tool for GC viz
 - [Grok expressions debugger](https://grokdebug.herokuapp.com)
 - [Akka](https://akka.io) - Actor system for Java/Scala
 
