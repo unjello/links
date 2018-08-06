@@ -45,6 +45,7 @@
 
 ## Infrastructure
 - [Serverless framework](https://serverless.com/)
+- [Debezium](https://debezium.io) - data change capture system. Stream database changes to Kafka.
 
 ## Unix Tools
 - [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
