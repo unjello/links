@@ -51,6 +51,7 @@
 - [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
 - [Bash Actors](http://asfarley.github.io/bashactors/) - Actor system for Bash 🤯
 - [exa](https://the.exa.website) - the modern replacement for `ls`
+- [rip-grep](https://github.com/BurntSushi/ripgrep) - the modern replacement for `grep`
 
 ## Documentation
 - [org-spec](https://github.com/thi-ng/org-spec) - nice template for technical and architectural documents
