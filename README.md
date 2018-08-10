@@ -3,6 +3,7 @@
 
 ## Visual Studio Code Extensions
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - inline http requests
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - nice accessible theme
 
 ## Regular Expressions
 - [Regexper](https://regexper.com) - railroad diagrams for regular expressions
