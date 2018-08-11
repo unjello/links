@@ -68,5 +68,4 @@
 
 
 ## Podcasts
-
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
