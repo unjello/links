@@ -22,6 +22,7 @@
 
 ## C
 - [Numerical Recipes in C](http://www.cec.uchile.cl/cinetica/pcordero/MC_libros/NumericalRecipesinC.pdf)
+- [NNG](https://github.com/nanomsg/nng) - successor of nanomsg, which was successor of ZeroMQ!
 
 ## C++
 - [RE2](https://github.com/google/re2) - regexp library for C++
@@ -47,6 +48,7 @@
 ## Infrastructure
 - [Serverless framework](https://serverless.com/)
 - [Debezium](https://debezium.io) - data change capture system. Stream database changes to Kafka.
+- [Cap'n'Proto](https://capnproto.org/) - pretty cool serialization protocol
 
 ## Unix Tools
 - [A little collection of cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
