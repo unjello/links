@@ -59,6 +59,7 @@
 ## Documentation
 - [org-spec](https://github.com/thi-ng/org-spec) - nice template for technical and architectural documents
 - [apid-doc](https://casual-effects.com/markdeep/apidoc.md.html) - markdeep for api and technical documents
+- [OpenAPI 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md) - OpenAPI 3.0
 
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
