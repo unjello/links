@@ -61,6 +61,11 @@
 - [exa](https://the.exa.website) - the modern replacement for `ls`
 - [rip-grep](https://github.com/BurntSushi/ripgrep) - the modern replacement for `grep`
 
+## Game Engines
+- [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine)
+- [EvilPudding](https://github.com/EvilPudding/candle)
+
+
 ## Documentation
 - [org-spec](https://github.com/thi-ng/org-spec) - nice template for technical and architectural documents
 - [apid-doc](https://casual-effects.com/markdeep/apidoc.md.html) - markdeep for api and technical documents
