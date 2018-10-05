@@ -6,3 +6,4 @@
 - [ACM Graphics Conference Papers](https://www.siggraph.org/learn/conference-content)
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [Digital Dragons YouTube](https://www.youtube.com/user/DigitalDragonsKrakow)
+- [SIGGRAPH Resources by Ke-Sen Huang](http://kesen.realtimerendering.com/)
