@@ -11,6 +11,7 @@
 - [Digital Dragons YouTube](https://www.youtube.com/user/DigitalDragonsKrakow)
 - [SIGGRAPH Resources by Ke-Sen Huang](http://kesen.realtimerendering.com/)
 - [Real-Time Rendering 4th ed, resources](http://www.realtimerendering.com/)
+- [i3D Resources](http://i3dsymposium.github.io/2018/conference.html)
 
 ## Engines and Frameworks
 
