@@ -3,3 +3,4 @@
 - [GPU Gems #1](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 - [GPU Gems #2](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_inside_front_cover.html)
 - [GPU Gems #3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
+- [ACM Graphics Conference Papers](https://www.siggraph.org/learn/conference-content)
