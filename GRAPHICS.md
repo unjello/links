@@ -7,3 +7,4 @@
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [Digital Dragons YouTube](https://www.youtube.com/user/DigitalDragonsKrakow)
 - [SIGGRAPH Resources by Ke-Sen Huang](http://kesen.realtimerendering.com/)
+- [Real-Time Rendering 4th ed, resources](http://www.realtimerendering.com/)
