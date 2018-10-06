@@ -13,6 +13,7 @@
 - [Real-Time Rendering 4th ed, resources](http://www.realtimerendering.com/)
 - [i3D Resources](http://i3dsymposium.github.io/2018/conference.html)
 - [SIGGRAPH Links](https://blog.selfshadow.com/categories/conference/)
+- [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 
 ## Courses
 - [Open Problems in Real-Time Rendering](https://openproblems.realtimerendering.com/)
