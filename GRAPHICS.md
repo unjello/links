@@ -12,6 +12,7 @@
 - [SIGGRAPH Resources by Ke-Sen Huang](http://kesen.realtimerendering.com/)
 - [Real-Time Rendering 4th ed, resources](http://www.realtimerendering.com/)
 - [i3D Resources](http://i3dsymposium.github.io/2018/conference.html)
+- [SIGGRAPH Links](https://blog.selfshadow.com/categories/conference/)
 
 ## Courses
 - [Open Problems in Real-Time Rendering](https://openproblems.realtimerendering.com/)
