@@ -13,6 +13,9 @@
 - [Real-Time Rendering 4th ed, resources](http://www.realtimerendering.com/)
 - [i3D Resources](http://i3dsymposium.github.io/2018/conference.html)
 
+## Courses
+- [Open Problems in Real-Time Rendering](https://openproblems.realtimerendering.com/)
+
 ## Engines and Frameworks
 
 - [bgfx - cross-platform rendering library](https://github.com/bkaradzic/bgfx)
