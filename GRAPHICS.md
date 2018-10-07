@@ -22,3 +22,7 @@
 ## Engines and Frameworks
 
 - [bgfx - cross-platform rendering library](https://github.com/bkaradzic/bgfx)
+
+## Conferences
+
+- [High-Performance Graphics](https://www.highperformancegraphics.org/)
