@@ -6,3 +6,4 @@
 - [Eduora Email Client](http://www.computerhistory.org/atchm/the-eudora-email-client-source-code/)
 - [Prince of Persia on Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - [Descent](https://archive.org/details/Descent_source)
+- [Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
