@@ -7,3 +7,4 @@
 - [Prince of Persia on Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - [Descent](https://archive.org/details/Descent_source)
 - [Apollo Guidance Computer](https://github.com/virtualagc/virtualagc)
+- [E.T. the Extra-Terrestrial (1982)](https://pastebin.com/AaSYZTHt) and [fixes](http://www.neocomputer.org/projects/et/)
