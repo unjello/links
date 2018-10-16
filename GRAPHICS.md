@@ -19,6 +19,9 @@
 ## Courses
 - [Open Problems in Real-Time Rendering](https://openproblems.realtimerendering.com/)
 
+## Books
+- [Phiscally Based Rendering](http://www.pbr-book.org/)
+
 ## Engines and Frameworks
 
 - [bgfx - cross-platform rendering library](https://github.com/bkaradzic/bgfx)
