@@ -10,3 +10,5 @@
 - [E.T. the Extra-Terrestrial (1982)](https://pastebin.com/AaSYZTHt) and [fixes](http://www.neocomputer.org/projects/et/)
 - [Apple II DOS](http://www.computerhistory.org/atchm/apple-ii-dos-source-code/)
 - [Microsoft Word 1.1a](http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/)
+- [MacPaint](http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/)
+- [QuickDraw](http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/)
