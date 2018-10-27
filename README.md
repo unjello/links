@@ -82,3 +82,7 @@
 
 ## Podcasts
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
+
+
+## Demoscene Tools
+- [Crinkler](http://crinkler.net/) - compressor for 4k intros
