@@ -31,6 +31,7 @@
 - [Ragel](http://www.colm.net/open-source/ragel/) - state machines generator for C/C++ and Assembler
 - [CAF](https://actor-framework.org/) - *C++ Actor Framework*, an actor system for C++
 - [Quick C++ Benchmarks](http://quick-bench.com) - online C++ benchmarking
+- [OpenFrameworks](https://openframeworks.cc/) - creative coding framework
 
 ## Node.js
 - [koa](https://koajs.com) - next generation web framework, from the creators of express
