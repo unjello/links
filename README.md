@@ -90,7 +90,7 @@
 - [Oidos](https://www.pouet.net/prod.php?which=69524) - synth for intros 4k
 - [4klang](http://4klang.untergrund.net/) - synth for intros 4k
 - [Shader Minfier](https://github.com/laurentlb/Shader_Minifier)
-
+- [Shadershop](http://tobyschachman.com/Shadershop/editor/)
 
 
 ## Math
