@@ -92,5 +92,7 @@
 - [Shader Minfier](https://github.com/laurentlb/Shader_Minifier)
 
 
+
 ## Math
 - [GeoGebra](https://www.geogebra.org/graphing) - math viz tool
+- [GraphToy](http://www.iquilezles.org/apps/graphtoy/)
