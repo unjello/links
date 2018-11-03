@@ -80,6 +80,7 @@
 - [Unsplash](https://unsplash.com)
 - [CC0.photo](https://cc0.photo)
 - [Texture Haven](https://texturehaven.com/)
+- [HDRi Haven](https://hdrihaven.com/)
 
 
 ## Podcasts
