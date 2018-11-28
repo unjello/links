@@ -32,6 +32,7 @@
 - [CAF](https://actor-framework.org/) - *C++ Actor Framework*, an actor system for C++
 - [Quick C++ Benchmarks](http://quick-bench.com) - online C++ benchmarking
 - [OpenFrameworks](https://openframeworks.cc/) - creative coding framework
+- [C++ draft web](http://eel.is/c++draft/) - web based, linkable, C++ draft snapshot
 
 ## Node.js
 - [koa](https://koajs.com) - next generation web framework, from the creators of express
