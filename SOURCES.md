@@ -20,3 +20,4 @@
 - [whitespace](https://github.com/armak/pbr-whitespace)                                              
 - [nwep](https://github.com/w23/nwep)
 - [in4k](https://github.com/in4k) - collection of sources for 4k intros
+- [Shader Minifier](https://github.com/laurentlb/Shader_Minifier)
