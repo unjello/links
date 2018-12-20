@@ -34,6 +34,9 @@
 - [OpenFrameworks](https://openframeworks.cc/) - creative coding framework
 - [C++ draft web](http://eel.is/c++draft/) - web based, linkable, C++ draft snapshot
 
+## Rust
+- [Real-time for the Masses](https://github.com/japaric/cortex-m-rtfm)
+
 ## Node.js
 - [koa](https://koajs.com) - next generation web framework, from the creators of express
 
