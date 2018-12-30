@@ -94,6 +94,7 @@
 ## Demoscene Tools
 - [Crinkler](http://crinkler.net/) - compressor for 4k intros
 - [Oidos](https://www.pouet.net/prod.php?which=69524) - synth for intros 4k
+- [Clinkster](http://www.pouet.net/prod.php?which=61592) - Oidos predecessor
 - [4klang](http://4klang.untergrund.net/) - synth for intros 4k
 - [Shader Minfier](https://github.com/laurentlb/Shader_Minifier)
 - [Shadershop](http://tobyschachman.com/Shadershop/editor/)
