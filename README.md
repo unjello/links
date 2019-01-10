@@ -21,6 +21,7 @@
 ## Assembler
 - [AsmGrid](https://kobalicek.com/asmgrid/) - assembly opcodes database
 - [Ragel](http://www.colm.net/open-source/ragel/) - state machines generator for C/C++ and Assembler
+- [Intel SIMD Intrisics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 
 ## C
 - [Numerical Recipes in C](http://www.cec.uchile.cl/cinetica/pcordero/MC_libros/NumericalRecipesinC.pdf)
