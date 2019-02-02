@@ -23,6 +23,7 @@
 - [Phiscally Based Rendering](http://www.pbr-book.org/)
 - [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)([code](https://github.com/petershirley/raytracingthenextweek/releases), [blog](https://in1weekend.blogspot.com/2016/01/ray-tracing-second-weekend.html))
 - [Ray Tracing - The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf)
+- [An Introduction to Raytracing](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
 
 ## Engines and Frameworks
 
