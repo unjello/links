@@ -53,6 +53,8 @@
 - [Protoactor.NET](https://github.com/AsynkronIT/protoactor-dotnet) - Yet another actor system for .NET
 - [Akkatecture](https://akkatecture.net/) - CQRS and Event Sourcing framework
 
+## Python
+- [Jinja Tester Online](https://cryptic-cliffs-32040.herokuapp.com/) - Live parser and tester of Jinja templates
 
 ## NoSQL Databases
 - [Kristof Kovacs NoSQL comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs ... everything
