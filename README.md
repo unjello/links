@@ -14,6 +14,8 @@
 
 ## Graphics
 - [List of noise funcitons](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
+- [RenderDoc](https://renderdoc.org/) - GFX debugging and performance tuning
+- [Pix](https://blogs.msdn.microsoft.com/pix/download/) - as above. GFX debugging and performance tuning.
 
 ## Golang
 - [Protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Actor system for Go
