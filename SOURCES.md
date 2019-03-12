@@ -22,3 +22,4 @@
 - [nwep](https://github.com/w23/nwep)
 - [in4k](https://github.com/in4k) - collection of sources for 4k intros
 - [Shader Minifier](https://github.com/laurentlb/Shader_Minifier)
+- [WaveSabre](https://github.com/logicomacorp/WaveSabre) - 64k synth
