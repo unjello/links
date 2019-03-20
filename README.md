@@ -38,6 +38,7 @@
 - [OpenFrameworks](https://openframeworks.cc/) - creative coding framework
 - [C++ draft web](http://eel.is/c++draft/) - web based, linkable, C++ draft snapshot
 - [Compiler Macros](http://nadeausoftware.com/articles/2012/01/c_c_tip_how_use_compiler_predefined_macros_detect_operating_system) - list of platform/os specific macros defined by various compilers
+- [C++ Insights](https://cppinsights.io/) - C++ optimizations explained
 
 ## Rust
 - [Real-time for the Masses](https://github.com/japaric/cortex-m-rtfm)
