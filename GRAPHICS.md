@@ -16,6 +16,9 @@
 - [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 - [Journal of Computer Graphics Techniques](http://jcgt.org/read.html)
 
+## Specs
+- [DirectX Specs](https://github.com/Microsoft/DirectX-Specs)
+
 ## Courses
 - [Open Problems in Real-Time Rendering](https://openproblems.realtimerendering.com/)
 
