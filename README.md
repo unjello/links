@@ -115,3 +115,6 @@
 
 ## Sound
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) - DSP book
+
+## CS
+- [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/) - MIT course
