@@ -112,6 +112,7 @@
 ## Math
 - [GeoGebra](https://www.geogebra.org/graphing) - math viz tool
 - [GraphToy](http://www.iquilezles.org/apps/graphtoy/)
+- [Desmos](https://www.desmos.com/calculator) - Graphing Calculator
 
 ## Sound
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) - DSP book
