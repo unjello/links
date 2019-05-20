@@ -88,6 +88,7 @@
 ## Awesome/Curated Lists
 - [Awesome List of Lists](https://github.com/sindresorhus/awesome)
 - [Microservices](https://github.com/mfornos/awesome-microservices) - part of awesome list of lists
+- [Hackert Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - some cool equipment lists
 
 ## CC0 Images
 - [Unsplash](https://unsplash.com)
